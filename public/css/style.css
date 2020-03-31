@@ -34,3 +34,16 @@ header a{
 .portrait{
     width: 250px;
 }
+.SearchCountry{
+    height: 30px;
+    border-radius: 2px;
+    box-shadow: none;
+    border: 1px solid #333333;
+}
+.submitButton{
+    height: 34px;
+    color: #ffffff;
+    background-color: #abbaaf;
+    outline: 0;
+    border-width: 0;
+}
