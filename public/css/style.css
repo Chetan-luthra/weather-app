@@ -34,16 +34,22 @@ header a{
 .portrait{
     width: 250px;
 }
+.inlineBlock{
+    display: inline-block;
+}
 .SearchCountry{
-    height: 30px;
+    height: 40px;
     border-radius: 2px;
+    padding: 0 15px;
     box-shadow: none;
     border: 1px solid #333333;
+    margin-right: 15px;
 }
 .submitButton{
-    height: 34px;
     color: #ffffff;
     background-color: #abbaaf;
     outline: 0;
     border-width: 0;
+    margin-right: 15px;
+    padding: 13px;
 }
